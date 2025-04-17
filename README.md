@@ -1,0 +1,2 @@
+# -Encrypt-and-decrypt-text-with-execution-time-calculation
+ the program decrypts texts encrypted using the Caesar Cipher for both Arabic and English languages by trying all possible keys (Brute-force). After displaying all possible decrypted results the user chooses the appropriate (meaningful) key and selects the language to perform the final decryption using the chosen key with execution time calculation
